@@ -4,7 +4,7 @@
 
 * 配送过程中，捐赠点每`10-20步`会随机生成一个
   > 这里我的理解出现了偏差，官方的赛题详情中提到：
-  > ![image.png](./102422h6tc4wjrgwezkdpq.png)
+  > ![image.png](https://raw.githubusercontent.com/rainzhop/hdc-devcloud-game-mask-ch1/master/102422h6tc4wjrgwezkdpq.png)
   > 我起初理解为了空间概念，即捐赠点会在花费`10-20步`可以走到的距离内随机生成，但万万没想到这其实是个时间概念，是在每`10-20步`的时间内会随机生成一个捐赠点。由于这个理解偏差，很自然地也被**捐赠点砸脸**困扰了一阵，也许在这里官方的表述可以更清晰些。
 
 * 纯命令行交互，使用标准I/O作为`命令（S/R/G）`和`移动方向(E/W/S/N)`的传递途径
