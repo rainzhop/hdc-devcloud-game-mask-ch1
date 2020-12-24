@@ -10,7 +10,9 @@ https://competition.huaweicloud.com/information/1000037176/introduction?track=11
 
 ## 解题思路分享
 
-https://bbs.huaweicloud.com/forum/thread-54266-1-1.html
+[原解题思路](https://bbs.huaweicloud.com/forum/thread-54266-1-1.html)（分享于华为云论坛，现已被论坛管理员屏蔽，原因未知）
+
+[解题思路备份](https://github.com/rainzhop/hdc-devcloud-game-mask-ch1/blob/master/idea_sharing.md)
 
 
 ## 线下测试代码
